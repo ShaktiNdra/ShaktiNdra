@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaktindra Sahooo
 - 👀 I’m interested in ... Web and app Development And Artificial Inteligent Development
-- 🌱 I’m currently learning ... Class 12+
+- 🌱 I’m currently learning ... B-tech in computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
